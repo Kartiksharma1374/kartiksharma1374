@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kartik Sharma 👋</h1>
 
-<!--
-**Kartiksharma1374/kartiksharma1374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Aspiring Data Scientist | 📈 Machine Learning Enthusiast | 📊 Finance + AI Projects
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ About Me
+
+- 🎓 Currently working on real-world ML projects focused on stock market analysis
+- 🚀 Passionate about data storytelling, predictive modeling, and solving problems using Python
+- 🧩 Interested in combining financial analysis with machine learning to build smart systems
+- 🔭 Recently completed: **Coca-Cola Stock Intelligence Project** — ML + Backtesting + Live Forecasting
+
+ Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kartiksharma7604/)
+- 📬 Email: kartiksharma1374@.com
+
+
+ Tech Stack
+
+```python
+Languages: Python, SQL  
+Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Finta, Matplotlib, Seaborn  
+Tools: Jupyter, GitHub, Google Colab, Streamlit  
